@@ -1,0 +1,2 @@
+# Slato
+ simple
